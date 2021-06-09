@@ -5,7 +5,7 @@ Log:
 DnsConfigPath: # ./dns.json  Path to dns config
 Nodes:
   -
-    PanelType: "SSpanel" # Panel type: SSpanel
+    PanelType: "V2board" # Panel type: SSpanel
     ApiConfig:
       ApiHost: "https://www.sspanel.tk"
       ApiKey: "sspanel.tk"
