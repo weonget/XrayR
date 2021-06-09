@@ -1,2 +1,3 @@
 # XRayR
-[本项目源自](https://github.com/XrayR-project/XrayR-release) 此处仅作备份！感谢大神。
+此处仅为自用仓库，感谢大佬的开源。
+如需教程请联系[@weonget](https://github.com/weonget)。
